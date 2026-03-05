@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+langchain
+langchain-openai
+redis
+pymilvus
+neo4j
+langfuse
